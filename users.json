@@ -1,0 +1,13 @@
+{
+    "data": {
+        "users": [
+            {
+                "id": "1",
+                "name": "Jhon",
+                "email": "john@mail.com"
+            }
+        ]
+    }
+}
+
+// {data:{users:[{id:"1",name:"Jhon",email:"john@mail.com"}]}}
