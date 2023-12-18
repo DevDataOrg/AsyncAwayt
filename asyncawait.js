@@ -1,7 +1,7 @@
 async function loadUsers() {
 
     let arr = [];
-    const url = 'https://api.escuelajs.co/api/v1/users';
+    const url = 'https://api.escuelajs.co/api/v1/users';  //https://app.quicktype.io
     const response = await fetch(url);
     const data = await response.json();
     // let newData = JSON.parse(data);
